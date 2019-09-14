@@ -21,3 +21,8 @@ footer{
     text-align: center;
     background-color: #22F0F7;
 }
+#home{
+    background-image: url(/home/derrick/Documents/Myportfolio/pic2.jpeg);
+    text-align: right;
+    font-family: 'Times New Roman', Times, serif;
+}
