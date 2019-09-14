@@ -1,5 +1,5 @@
 #nav{
-    padding: 0px;
+    padding: 20px;
     line-height: 20px;
 
 }
@@ -10,10 +10,14 @@ h3{
 }
 #about{
     text-align: right;
+    padding: 20px;
 }
 footer{
     text-align: center;
     background-color: 273964;
+    #p{
+        float: right;
+    }
 }
 #home{
     background-image: url(/home/derrick/Documents/Myportfolio/pic2.jpeg);
@@ -21,11 +25,21 @@ footer{
     font-family: 'Times New Roman', Times, serif;
 }
 #contact{
-    text-align: center;
+    text-align: right;
     line-height: 40px;
+    padding: 20px;
 }
 .top{
     background-color: #273964;
     text-align: center;
     font-style: italic;
+}
+#myworks{
+    text-align: left;
+    padding: 20px;
+}
+
+
+@media screen{
+    (max-width: 767px) and (min-width: 600px);
 }
