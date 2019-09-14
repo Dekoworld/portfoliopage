@@ -3,12 +3,11 @@ html{
 }
 #nav{
     padding: 20px;
-    line-height: 20px;
-    overflow: auto;
+    line-height: 30px;
 }
 h3{
     text-align: center;
-    font color: black;
+    font color: blue;
     font family:serif;
 }
 #about{
@@ -17,11 +16,8 @@ h3{
 }
 footer{
     text-align: center;
-    background-color: 273964;
-    #p{
-        float: right;
+    background-color: #E6E6FA;
     }
-}
 #home{
     background-image: url(/home/derrick/Documents/Myportfolio/pic2.jpeg);
     text-align: right;
@@ -33,7 +29,7 @@ footer{
     padding: 20px;
 }
 .top{
-    background-color: #273964;
+    background-color: #E6E6FA;
     text-align: center;
     font-style: italic;
 }
@@ -41,9 +37,7 @@ footer{
     text-align: left;
     padding: 20px;
 }
-    background-image: url(/home/derrick/Documents/Myportfolio/pic4.jpeg);
-
-
+}
 @media screen{
     (max-width: 767px) and (min-width: 600px);
 }
