@@ -1,6 +1,7 @@
 #nav{
-    float: right;
+    float: left;
     padding: 10px;
+    line-height: 40px;
 }
 h1,h2{
     background-color: gray;
