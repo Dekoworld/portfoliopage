@@ -1,6 +1,6 @@
 html{
     background-image: url(/home/derrick/Documents/Myportfolio/pic4.jpeg);
-    height: 100px;
+
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -16,13 +16,19 @@ h3{
 #about{
     text-align: right;
     padding: 20px;
-}
+    background-repeat: no-repeat;
+    #p{
+      float: right;
+    }
+    img{
+      border-radius: 50%;
+      float: right;
+    }
 footer{
     text-align: center;
     background-color: #E6E6FA;
     }
 #home{
-    background-image: url(/home/derrick/Documents/Myportfolio/pic2.jpeg);
     text-align: left;
     font-family: 'Times New Roman', Times, serif;
     background-position: center;
