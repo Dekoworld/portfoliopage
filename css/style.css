@@ -1,13 +1,12 @@
 html{
     background-image: url(/home/derrick/Documents/Myportfolio/pic4.jpeg);
-
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 #nav{
-    padding: 20px;
-    line-height: 30px;
+    padding: 10px;
+    line-height: 40px;
 }
 h3{
     text-align: center;
@@ -17,37 +16,23 @@ h3{
     text-align: right;
     padding: 20px;
     background-repeat: no-repeat;
-    #p{
-      float: right;
-    }
-    img{
-      border-radius: 50%;
-      float: right;
-    }
-footer{
-    text-align: center;
-    background-color: #E6E6FA;
-    }
+    background-image: url(/home/derrick/Documents/Myportfolio/me.jpg);
+  }
 #home{
-    text-align: left;
-    font-family: 'Times New Roman', Times, serif;
-    background-position: center;
-    background-repeat: repeat-x;
-    background-size: cover;
+  
 }
 #contact{
     text-align: right;
     line-height: 40px;
     padding: 20px;
 }
-.top{
-    text-align: center;
-    font-style: italic;
-}
 #myworks{
     text-align: left;
     padding: 20px;
 }
+footer{
+  text-align: center;
+  background-color: #87CEFA;
 }
 @media screen{
     (max-width: 767px) and (min-width: 600px);
