@@ -1,5 +1,9 @@
 html{
     background-image: url(/home/derrick/Documents/Myportfolio/pic4.jpeg);
+    height: 100px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 #nav{
     padding: 20px;
@@ -7,7 +11,6 @@ html{
 }
 h3{
     text-align: center;
-    font color: blue;
     font family:serif;
 }
 #about{
@@ -20,8 +23,11 @@ footer{
     }
 #home{
     background-image: url(/home/derrick/Documents/Myportfolio/pic2.jpeg);
-    text-align: right;
+    text-align: left;
     font-family: 'Times New Roman', Times, serif;
+    background-position: center;
+    background-repeat: repeat-x;
+    background-size: cover;
 }
 #contact{
     text-align: right;
