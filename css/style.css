@@ -12,10 +12,6 @@ html{
 h1{
   font-family: sans-serif;
 }
-h2{
-  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  text-align: center;
-}
 h3{
     text-align: center;
     font family:serif;
@@ -26,16 +22,17 @@ h3{
     background-repeat: no-repeat;
     background-image: url(/home/derrick/Documents/Myportfolio/me.jpg);
     border-radius: 50%;
+    width: auto;
 
 
   }
 #contact{
     text-align: right;
     line-height: 40px;
-    padding: 20px;
+    padding: 70px;
 }
 #myworks{
-    text-align: c;
+    text-align: center;
     padding: 20px;
 }
 footer{
