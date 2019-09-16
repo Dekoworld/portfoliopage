@@ -52,6 +52,3 @@ footer{
 form{
   float: left;
 }
-@media screen{
-    (max-width: 767px) and (min-width: 600px);
-}
