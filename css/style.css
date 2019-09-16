@@ -8,10 +8,6 @@ html{
     padding: 10px;
     line-height: 40px;
 }
-@font-face {
-  font-family: greatvibes;
-  src: url(/home/derrick/Downloads/greatvibes.ttf);
-}
 h1{
   font-family: slick;
   text-align: center;
@@ -19,7 +15,7 @@ h1{
 }
 h2{
   float: right;
-  font-family: greatvibes;
+  font-family: Arial, Helvetica, sans-serif;
   padding: 100px;
   margin: 0px;
   font-size: 50px;
